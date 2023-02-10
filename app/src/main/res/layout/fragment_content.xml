@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.core.widget.NestedScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="#F5F5F5"
+    android:transitionName="@string/transition_name"
+    android:id="@+id/nestedScrollContainer"
+    tools:context=".ContentFragment">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="10dp">
+
+        <com.google.android.material.textview.MaterialTextView
+            android:layout_width="match_parent"
+            android:layout_height="128dp"
+            android:gravity="center"
+            android:text="Content"
+            android:textStyle="italic"
+            android:textAppearance="@style/TextAppearance.MaterialComponents.Headline5"
+            android:background="#1D1D1D"
+            android:textColor="@color/white"
+            android:padding="16dp"
+            android:layout_marginBottom="32dp"
+            android:layout_marginTop="22dp"/>
+
+        <com.google.android.material.textview.MaterialTextView
+            android:layout_width="match_parent"
+            android:layout_height="128dp"
+            android:gravity="center"
+            android:text="Content"
+            android:textStyle="italic"
+            android:textAppearance="@style/TextAppearance.MaterialComponents.Headline5"
+            android:background="#1D1D1D"
+            android:textColor="@color/white"
+            android:padding="16dp"
+            android:layout_marginBottom="32dp"/>
+
+        <com.google.android.material.textview.MaterialTextView
+            android:layout_width="match_parent"
+            android:layout_height="128dp"
+            android:gravity="center"
+            android:text="Content"
+            android:textStyle="italic"
+            android:textAppearance="@style/TextAppearance.MaterialComponents.Headline5"
+            android:background="#1D1D1D"
+            android:textColor="@color/white"
+            android:padding="16dp"
+            android:layout_marginBottom="32dp"/>
+
+        <com.google.android.material.textview.MaterialTextView
+            android:layout_width="match_parent"
+            android:layout_height="128dp"
+            android:gravity="center"
+            android:text="Content"
+            android:textStyle="italic"
+            android:textAppearance="@style/TextAppearance.MaterialComponents.Headline5"
+            android:background="#1D1D1D"
+            android:textColor="@color/white"
+            android:padding="16dp"
+            android:layout_marginBottom="32dp"/>
+
+        <com.google.android.material.textview.MaterialTextView
+            android:layout_width="match_parent"
+            android:layout_height="128dp"
+            android:gravity="center"
+            android:text="Content"
+            android:textStyle="italic"
+            android:textAppearance="@style/TextAppearance.MaterialComponents.Headline5"
+            android:background="#1D1D1D"
+            android:textColor="@color/white"
+            android:padding="16dp"
+            android:layout_marginBottom="32dp"/>
+
+        <com.google.android.material.textview.MaterialTextView
+            android:layout_width="match_parent"
+            android:layout_height="128dp"
+            android:gravity="center"
+            android:text="Content"
+            android:textStyle="italic"
+            android:textAppearance="@style/TextAppearance.MaterialComponents.Headline5"
+            android:background="#1D1D1D"
+            android:textColor="@color/white"
+            android:padding="16dp"
+            android:layout_marginBottom="32dp"/>
+
+        <com.google.android.material.textview.MaterialTextView
+            android:layout_width="match_parent"
+            android:layout_height="128dp"
+            android:gravity="center"
+            android:text="Content"
+            android:textStyle="italic"
+            android:textAppearance="@style/TextAppearance.MaterialComponents.Headline5"
+            android:background="#1D1D1D"
+            android:textColor="@color/white"
+            android:padding="16dp"
+            android:layout_marginBottom="32dp"/>
+
+        <com.google.android.material.textview.MaterialTextView
+            android:layout_width="match_parent"
+            android:layout_height="128dp"
+            android:gravity="center"
+            android:text="Content"
+            android:textStyle="italic"
+            android:textAppearance="@style/TextAppearance.MaterialComponents.Headline5"
+            android:background="#1D1D1D"
+            android:textColor="@color/white"
+            android:padding="16dp"
+            android:layout_marginBottom="32dp"/>
+
+        <com.google.android.material.textview.MaterialTextView
+            android:layout_width="match_parent"
+            android:layout_height="128dp"
+            android:gravity="center"
+            android:text="Content"
+            android:textStyle="italic"
+            android:textAppearance="@style/TextAppearance.MaterialComponents.Headline5"
+            android:background="#1D1D1D"
+            android:textColor="@color/white"
+            android:padding="16dp"
+            android:layout_marginBottom="32dp"/>
+
+        <com.google.android.material.textview.MaterialTextView
+            android:layout_width="match_parent"
+            android:layout_height="128dp"
+            android:gravity="center"
+            android:text="Content"
+            android:textStyle="italic"
+            android:textAppearance="@style/TextAppearance.MaterialComponents.Headline5"
+            android:background="#1D1D1D"
+            android:textColor="@color/white"
+            android:padding="16dp"
+            android:layout_marginBottom="32dp"/>
+
+        <com.google.android.material.textview.MaterialTextView
+            android:layout_width="match_parent"
+            android:layout_height="128dp"
+            android:gravity="center"
+            android:text="Content"
+            android:textStyle="italic"
+            android:textAppearance="@style/TextAppearance.MaterialComponents.Headline5"
+            android:background="#1D1D1D"
+            android:textColor="@color/white"
+            android:padding="16dp"
+            android:layout_marginBottom="32dp"/>
+
+
+    </LinearLayout>
+
+</androidx.core.widget.NestedScrollView>

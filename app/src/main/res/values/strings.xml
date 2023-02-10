@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ThreeStepsNestedScrollMotionLayoutAnimation</string>
+    <string name="transition_name" translatable="false">transition_name</string>
+</resources>
